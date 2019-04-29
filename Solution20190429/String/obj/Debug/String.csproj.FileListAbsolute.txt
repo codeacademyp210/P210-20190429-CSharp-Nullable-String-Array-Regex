@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\String\bin\Debug\String.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\String\bin\Debug\String.exe
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\String\bin\Debug\String.pdb
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\String\obj\Debug\String.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\String\obj\Debug\String.exe
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\String\obj\Debug\String.pdb

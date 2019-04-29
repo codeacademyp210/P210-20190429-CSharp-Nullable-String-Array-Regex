@@ -1,0 +1,6 @@
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\ArraysProject\bin\Debug\ArraysProject.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\ArraysProject\bin\Debug\ArraysProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\ArraysProject\bin\Debug\ArraysProject.pdb
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\ArraysProject\obj\Debug\ArraysProject.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\ArraysProject\obj\Debug\ArraysProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\ArraysProject\obj\Debug\ArraysProject.pdb

@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190429\Weekend Task\Weekend Task\bin\Debug\Weekend Task.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190429\Weekend Task\Weekend Task\bin\Debug\Weekend Task.exe
+C:\Users\sattar\Desktop\P210\C#\20190429\Weekend Task\Weekend Task\bin\Debug\Weekend Task.pdb
+C:\Users\sattar\Desktop\P210\C#\20190429\Weekend Task\Weekend Task\obj\Debug\Weekend Task.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190429\Weekend Task\Weekend Task\obj\Debug\Weekend Task.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190429\Weekend Task\Weekend Task\obj\Debug\Weekend Task.exe
+C:\Users\sattar\Desktop\P210\C#\20190429\Weekend Task\Weekend Task\obj\Debug\Weekend Task.pdb

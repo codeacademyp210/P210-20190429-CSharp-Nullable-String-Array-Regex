@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\RegexProject\bin\Debug\RegexProject.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\RegexProject\bin\Debug\RegexProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\RegexProject\bin\Debug\RegexProject.pdb
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\RegexProject\obj\Debug\RegexProject.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\RegexProject\obj\Debug\RegexProject.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\RegexProject\obj\Debug\RegexProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190429\Solution20190429\RegexProject\obj\Debug\RegexProject.pdb
